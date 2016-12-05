@@ -24,6 +24,8 @@
     NSLog(@"Done");
     
     NSLog(@"Test");
+    
+    NSLog(@"TestTwo");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
